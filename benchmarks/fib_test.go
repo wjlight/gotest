@@ -5,6 +5,7 @@ import (
 )
 
 /*
+http://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
 基准测试的代码放在 _test打头的文件中，规则类似Test
 如下是斐波那契的例子，
 */
